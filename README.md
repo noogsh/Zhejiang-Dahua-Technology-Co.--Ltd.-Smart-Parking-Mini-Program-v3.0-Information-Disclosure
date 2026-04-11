@@ -1,10 +1,8 @@
-# Zhejiang-Dahua-Technology-Co.--Ltd.-Smart-Parking-Mini-Program-v3.0-Information-Disclosure
-Logical Defect inZhejiang-Dahua-Technology-Co.,-Ltd.-Smart-Parking-Mini Program-v3.0 leads to Unauthorized Disclosure of User Personal Information
 
- 
+Zhejiang-Dahua-Technology-Co.--Ltd.-Smart-Parking-Mini-Program-v3.0-Information-Disclosure
+Logical Defect in Zhejiang-Dahua-Technology-Co.,-Ltd.-Smart-Parking-Mini Program-v3.0 leads to Unauthorized Disclosure of User Personal Information
 Vendor Identification
-Vendor: Zhejiang Dahua Technology Co., Ltd. (Dahua Technology)This vulnerability exists in a WeChat Mini Program deployed in multiple enterprise scenarios.The entry can be located using common network asset search rules with unique component characteristics.Full asset location details will be provided to the CVE review team upon request.
-The vendor will be identified and notified by the CVE assigning authority during the review process.
+Vendor: Zhejiang Dahua Technology Co., Ltd. (Dahua Technology)This vulnerability exists in a WeChat Mini Program deployed in multiple enterprise scenarios.Assets can be located on Hunter using the following favicon fingerprint:web.icon="181f1adb75709a42a297e6faa3d268e3"The entry can be located using common network asset search rules with unique component characteristics.Full asset location details will be provided to the CVE review team upon request.The vendor will be identified and notified by the CVE assigning authority during the review process.
 Overview
 Zhejiang Dahua Technology Co., Ltd. Smart Parking Mini Program version v3.0 contains an access control vulnerability. After logging into the Mini Program, an attacker can access the user information interface without sufficient permission verification, which leads to unauthorized disclosure of users' personal information.
 Vulnerability Type
